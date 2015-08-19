@@ -1,5 +1,4 @@
 # Weather-Paeticles
-Unityで演出をリッチにする天気パーティクルです  
   
 #OverView  
 Cloudy  

@@ -16,4 +16,4 @@ The simple weather forecast using this particles.
   
 #Usage
 Download the unitypackage.  
-And inport your project.  
+And inport to your project.  

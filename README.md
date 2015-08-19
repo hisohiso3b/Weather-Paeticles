@@ -8,7 +8,7 @@ Cloudy+Rainy
 Cloudy+Snowy  
 ![スクリーンショット 2015-08-20 1.06.56.png](https://qiita-image-store.s3.amazonaws.com/0/62043/4d609086-0515-54da-5c81-9e9faed7c082.png)
 
-You can demo play the scene here.  
+You can play the demo scene here.  
 http://hiso.dip.jp:3333/weather_particles/  
   
 The simple weather forecast using this particles.  
